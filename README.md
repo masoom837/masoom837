@@ -11,7 +11,7 @@
 ---
 
 ### <span style="color:green">
-[ ABOUT ME ]</span>
+> ABOUT ME</span>
 <h3 align="center">🖥️ SYSTEM INFORMATION</h3>
 
 <div align="center">
