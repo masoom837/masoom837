@@ -1,7 +1,7 @@
 <h1 align="center">MASOOM ALI.exe</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=%3E+Creative+Mind.+Tech+Enthusiast.;%3E+Web+Developer+%7C+Designer+%7C+Editor;;%3E+LOST+IN+LOGIC%2C+CONSUMED+BY+CURIOSITY." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=%3E+LOST+IN+LOGIC%2C+CONSUMED+BY+CURIOSITY.;%3E+Web+Developer+%7C+Designer+%7C+Editor;%3E+Creative+Mind.+Tech+Enthusiast." />
 </p>
 
 <p align="center">
