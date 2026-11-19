@@ -10,14 +10,19 @@
 
 ---
 
-### <span style="color:green">[ ABOUT ME ]</span>
+### <span style="color:green">
+[ ABOUT ME ]</span>
 
-```text
-Name       : Masoom Ali
-Education   : BSCS Student
-Field      : Technology & Digital Creativity
-Status     : Continuously Evolving
-
+`╔══════════════════════════════════════════════════╗
+║               SYSTEM INFORMATION              ║
+╠══════════════════════════════════════════════════╣
+║ NAME       : MASOOM ALI                       ║
+║ ROLE       : COMPUTER SCIENCE STUDENT          ║
+║ EDUCATION  : BSCS | 1ST YEAR | 2ND SEMESTER  ║
+║ FIELD      : TECHNOLOGY & DIGITAL CREATIVITY   ║
+║ STATUS     : ALWAYS EVOLVING                  ║
+║ INTEREST   : DEVELOPMENT & PROGRAMMING        ║
+╚══════════════════════════════════════════════════╝
 
 > CREATIVE_SKILLS
 
