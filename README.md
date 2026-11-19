@@ -1,64 +1,58 @@
 <h1 align="center">MASOOM ALI.exe</h1>
 
-<h3 align="center">
-  <code>COMPUTER SCIENCE STUDENT | DEVELOPER IN PROGRESS</code>
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=%3E+Initializing+system...;%3E+Hello+World!+I+am+Masoom+Ali;%3E+Computer+Science+Student;%3E+Learning.+Building.+Improving.;%3E+System+online...+Welcome+to+my+GitHub." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=%3E+Creative+Mind.+Tech+Enthusiast.;%3E+Web+Developer+%7C+Designer+%7C+Editor;%3E+Exploring+the+World+of+Programming." />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%" />
+  <code>CREATIVE MINDS MEET TECHNOLOGY</code>
 </p>
+
+---
+
+### <span style="color:green">[ ABOUT ME ]</span>
 
 ```text
-╔══════════════════════════════════════════════════╗
-║               SYSTEM INFORMATION              ║
-╠══════════════════════════════════════════════════╣
-║ USER       : MASOOM ALI                       ║
-║ ROLE       : COMPUTER SCIENCE STUDENT          ║
-║ STATUS     : ONLINE                            ║
-║ INTEREST   : SOFTWARE DEVELOPMENT               ║
-║ OBJECTIVE  : LEARN / CODE / BUILD / IMPROVE    ║
-╚══════════════════════════════════════════════════╝
-
-> whoami
-
-Computer Science student interested in programming,
-software development, and technology.
-
-I enjoy learning new concepts, solving problems,
-experimenting with code, and building projects.
-
-Currently developing my skills one line at a time.
-
-[ LEARNING PROTOCOL ACTIVE ]
-
-├── C++ Programming
-├── Object-Oriented Programming
-├── Problem Solving
-└── Software Development Fundamentals
+Name       : Masoom Ali
+Education   : BSCS Student
+Field      : Technology & Digital Creativity
+Status     : Continuously Evolving
 
 
-> ls projects/
+> CREATIVE_SKILLS
 
-├── C++ Practice & Experiments
-├── Web Development Projects
-├── Personal Portfolio
-└── Future Projects [LOADING...]
++ Web Development
++ Graphic Design
++ Video Editing
++ Content Creation / Influencing
++ Photography
 
+> PROGRAMMING
 
-#include <iostream>
-using namespace std;
++ C++
++ Java
 
-int main()
-{
-    while (true)
-    {
-        learn();
-        code();
-        build();
-        improve();
-    }
-}
+01. Exploring programming and software development
+02. Improving my coding and problem-solving skills
+03. Exploring new technologies
+04. Combining creativity with technology
+05. Turning ideas into real projects
+
+├── Web Development
+├── Graphic Design
+├── Video Editing
+├── Photography
+├── Programming Projects
+└── More Projects Loading...
+
+I don't limit myself to one field.
+
+I create.
+I design.
+I edit.
+I capture.
+I code.
+I learn.
+
+Technology is a journey.
+I'm building mine.
