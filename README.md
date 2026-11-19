@@ -12,17 +12,21 @@
 
 ### <span style="color:green">
 [ ABOUT ME ]</span>
+<h3 align="center">🖥️ SYSTEM INFORMATION</h3>
 
-`╔══════════════════════════════════════════════════╗
-║               SYSTEM INFORMATION              ║
-╠══════════════════════════════════════════════════╣
-║ NAME       : MASOOM ALI                       ║
-║ ROLE       : COMPUTER SCIENCE STUDENT          ║
-║ EDUCATION  : BSCS | 1ST YEAR | 2ND SEMESTER  ║
-║ FIELD      : TECHNOLOGY & DIGITAL CREATIVITY   ║
-║ STATUS     : ALWAYS EVOLVING                  ║
-║ INTEREST   : DEVELOPMENT & PROGRAMMING        ║
-╚══════════════════════════════════════════════════╝
+<div align="center">
+
+| PROPERTY | DETAILS |
+|:---|:---|
+| **NAME** | Masoom Ali |
+| **EDUCATION** | BSCS Student |
+| **YEAR** | 1st Year |
+| **SEMESTER** | 2nd Semester |
+| **FIELD** | Technology & Creativity |
+| **STATUS** | Always Evolving |
+| **INTEREST** | Development & Programming |
+
+</div>
 
 > CREATIVE_SKILLS
 
