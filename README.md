@@ -1,11 +1,11 @@
 <h1 align="center">MASOOM ALI.exe</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=%3E+Creative+Mind.+Tech+Enthusiast.;%3E+Web+Developer+%7C+Designer+%7C+Editor;%3E+Exploring+the+World+of+Programming." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=%3E+Creative+Mind.+Tech+Enthusiast.;%3E+Web+Developer+%7C+Designer+%7C+Editor;%3LOST IN LOGIC, CONSUMED BY CURIOSITY." />
 </p>
 
 <p align="center">
-  <code>CREATIVE MINDS MEET TECHNOLOGY</code>
+  <code>“FEAR FADES WHEN YOU LEARN THE ARCHITECTURE OF THE THING THAT ONCE TERRIFIED YOU..💀</code>
 </p>
 
 ---
@@ -19,7 +19,7 @@
 | PROPERTY | DETAILS |
 |:---|:---|
 | **NAME** | Masoom Ali |
-| **EDUCATION** | BSCS Student |
+| **EDUCATION** | BSCS Student 🧑🏻‍💻 |
 | **YEAR** | 1st Year |
 | **SEMESTER** | 2nd Semester |
 | **FIELD** | Technology & Creativity |
